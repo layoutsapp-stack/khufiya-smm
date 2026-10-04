@@ -1,0 +1,9 @@
+{
+  "appId": "com.khufiyasmm.app",
+  "appName": "Khufiya SMM",
+  "webDir": "dist",
+  "server": {
+    "url": "https://khufiyasmm2.42web.io",
+    "cleartext": true
+  }
+}
